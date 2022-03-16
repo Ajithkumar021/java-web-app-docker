@@ -19,7 +19,8 @@
 
 	<properties>
 		<!-- versions -->
-		
+		<sonar url>//http://3.93.241.218:9000/projects//
+		<sonar login> 542e496f92a4f06f4efe87dd18663964112eff12	
 		<spring.version>5.0.7.RELEASE</spring.version>
 		<junit.version>4.12</junit.version>
 		<log4j.version>1.2.17</log4j.version>
